@@ -31,6 +31,6 @@ This project is a simple Address Book application developed in C. It allows user
 
 ---
 
-## ▶️ How to Run
+## How to Run
 1. Compile the program:
 2. Run the executable:
