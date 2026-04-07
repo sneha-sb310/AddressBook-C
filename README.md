@@ -1,13 +1,11 @@
 # AddressBook-C
 
-# 📒 Address Book in C
-
-## 📌 Description
+## Description
 This project is a simple Address Book application developed in C. It allows users to store, manage, and manipulate contact details such as name, phone number, and email using file handling.
 
 ---
 
-## 🚀 Features
+## Features
 - Add new contacts
 - Search contacts
 - Edit existing contacts
@@ -17,14 +15,14 @@ This project is a simple Address Book application developed in C. It allows user
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 - C Programming
 - File Handling
 - Modular Programming (Multiple .c and .h files)
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 - main.c → Main menu and program execution
 - contact.c / contact.h → Contact operations
 - file.c / file.h → File handling
